@@ -1,0 +1,28 @@
+body {
+    background-color:skyblue;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 20%;
+}
+#inputText {
+    width: 20%;
+    margin-left: 40%;
+    margin-right: 40%;
+    height: 40px;
+
+}
+#checkButton {
+    width: 20%;
+    margin-left: 40%;
+    margin-top: 2%;
+    margin-right: 40%;
+    height: 25px;
+    color: whitesmoke;
+    background-color: black;
+}
+#result {
+    text-align: center;
+}
